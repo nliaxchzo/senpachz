@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=senpachz"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nliaxchzo"/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -17,7 +17,6 @@
   </p>
 </p>
 <p>
-  🔗 Вы хотите связаться со мной? Так напишите мне <a href="https://t.me/senpachz">Telegram</a>!
 </p><br/>
 
 <details>
